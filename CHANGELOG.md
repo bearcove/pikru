@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0-rc.0](https://github.com/bearcove/pikru/compare/pikru-v1.2.1...pikru-v2.0.0-rc.0) - 2026-06-09
+
+### Other
+
+- Prepare pikru 2.0.0-rc.0 ([#11](https://github.com/bearcove/pikru/pull/11))
+
 ## [1.2.1](https://github.com/bearcove/pikru/compare/pikru-v1.2.0...pikru-v1.2.1) - 2026-05-19
 
 ### Fixed
