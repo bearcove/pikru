@@ -1,3 +1,9 @@
+## Moved to Dodeca
+
+This project has been absorbed into [Dodeca](https://github.com/bearcove/dodeca).
+Future development happens in Dodeca's `libs/pikru` tree; this repository is kept
+for history and crate metadata.
+
 A Rust implementation of [pikchr](https://pikchr.org/), a PIC-like diagram
 markup language for creating technical diagrams that generates SVG.
 

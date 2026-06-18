@@ -1,5 +1,11 @@
 # pikru
 
+## Moved to Dodeca
+
+This project has been absorbed into [Dodeca](https://github.com/bearcove/dodeca).
+Future development happens in Dodeca's `libs/pikru` tree; this repository is kept
+for history and crate metadata.
+
 [![crates.io](https://img.shields.io/crates/v/pikru.svg)](https://crates.io/crates/pikru)
 [![docs.rs](https://docs.rs/pikru/badge.svg)](https://docs.rs/pikru)
 [![MIT/Apache 2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)](./LICENSE-MIT)
